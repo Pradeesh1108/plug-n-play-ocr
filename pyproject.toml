@@ -1,0 +1,16 @@
+[project]
+name = "ocr"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi>=0.126.0",
+    "numpy>=1.26.4",
+    "opencv-python>=4.11.0.86",
+    "paddleocr>=3.3.2",
+    "paddlepaddle>=3.2.2",
+    "pillow>=12.0.0",
+    "python-multipart>=0.0.21",
+    "uvicorn[standard]>=0.38.0",
+]

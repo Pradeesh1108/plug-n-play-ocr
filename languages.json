@@ -1,0 +1,19 @@
+{
+  "languages": {
+    "en": {
+      "name": "English",
+      "code": "en",
+      "font": "NotoSans-Regular.ttf"
+    },
+    "hi": {
+      "name": "Hindi",
+      "code": "hi",
+      "font": "NotoSansDevanagari-Regular.ttf"
+    },
+    "ta": {
+      "name": "Tamil",
+      "code": "ta",
+      "font": "NotoSansTamil-Regular.ttf"
+    }
+  }
+}
