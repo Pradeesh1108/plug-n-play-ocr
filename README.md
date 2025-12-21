@@ -42,7 +42,7 @@ For the complete list of supported languages, refer to the [PaddleOCR documentat
 ### Dependencies
 
 ```bash
-pip install fastapi uvicorn paddleocr pillow numpy
+uv sync # or pip install -r requirements.txt
 ```
 
 ### Font Files (Optional)
